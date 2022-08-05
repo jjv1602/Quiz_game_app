@@ -8,7 +8,7 @@
         <entry key="..\:/Coding/App Development/App Development Project/Github Quiz app/myapplication/app/src/main/res/drawable-v24/q_border.xml" value="0.25833333333333336" />
         <entry key="..\:/Coding/App Development/App Development Project/Github Quiz app/myapplication/app/src/main/res/drawable-v24/selected_border.xml" value="0.25833333333333336" />
         <entry key="..\:/Coding/App Development/App Development Project/Github Quiz app/myapplication/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
-        <entry key="..\:/Coding/App Development/App Development Project/Github Quiz app/myapplication/app/src/main/res/layout/q2act.xml" value="0.2421875" />
+        <entry key="..\:/Coding/App Development/App Development Project/Github Quiz app/myapplication/app/src/main/res/layout/q2act.xml" value="0.22362869198312235" />
         <entry key="..\:/Coding/App Development/App Development Project/Github Quiz app/myapplication/app/src/main/res/layout/q3act.xml" value="0.23846153846153847" />
         <entry key="..\:/Coding/App Development/App Development Project/Github Quiz app/myapplication/app/src/main/res/layout/q6act.xml" value="0.23846153846153847" />
       </map>
@@ -19,5 +19,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22362869198312235" />
+      </ProjectState>
+    </option>
   </component>
 </project>
