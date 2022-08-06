@@ -14,34 +14,34 @@ Finally display the name and score
 ## Screenshots
 1) Home Page 
 <br><br>
-    <img src="Photos/Home%20Page.jpg" width="400" height="500">
+    <img src="Photos/Home%20Page.jpg" width="400" height="700">
     <br>
     <br>
     
 2) Question 1 page
     <br>
     <br>
-    <img src="Photos/q1.jpg" width="400" height="500">
+    <img src="Photos/q1.jpg" width="400" height="700">
     <br>
     <br>
     
 3) Question 2 page
     <br>
     <br>
-    <img src="Photos/q2.jpg" width="400" height="500">
+    <img src="Photos/q2.jpg" width="400" height="700">
     <br>
     <br>
     
 4) Question 3 page
     <br>
     <br>
-    <img src="Photos/q3.jpg" width="400" height="500">
+    <img src="Photos/q3.jpg" width="400" height="700">
     <br>
     <br>
 
 5) Question 4 page
     <br><br>
-    <img src="Photos/q4.jpg" width="400" height="500">
+    <img src="Photos/q4.jpg" width="400" height="700">
 <br>
     <br>
 
@@ -55,6 +55,6 @@ Finally display the name and score
   
     <br>
     <br>
-    <img src="Photos/q6.jpg" width="400" height="500">
+    <img src="Photos/q6.jpg" width="400" height="700">
 <br> <br>
     
